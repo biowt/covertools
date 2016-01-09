@@ -1,0 +1,11 @@
+{
+  "name": "covertools",
+  "version": "0.1.0",
+  "description": "Tools for work with coverage files (Bioinformatics)",
+  "main": "index.js",
+  "repository": {"type": "git", "url": "https://github.com/biowt/covertools.git"},
+  "keywords": ["bioinformatics", "cover", "coverage", "mpileup", "bed", "jmjuanes"],
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {"bedjs": "0.1.0"}
+}
