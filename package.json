@@ -1,6 +1,6 @@
 {
   "name": "covertools",
-  "version": "0.1.0-alpha",
+  "version": "0.1.0-alpha.1",
   "description": "Tools for work with coverage files (Bioinformatics)",
   "main": "index.js",
   "repository": {"type": "git", "url": "https://github.com/biowt/covertools.git"},
